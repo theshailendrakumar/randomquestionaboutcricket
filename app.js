@@ -202,8 +202,8 @@ form.appendChild(button)
 
 
 
-let result = 0;
 form.addEventListener("submit",(event)=>{
+let result = 0;
     event.preventDefault()
     const data = new FormData(form);
 
@@ -220,5 +220,6 @@ form.addEventListener("submit",(event)=>{
     form.appendChild(pa)
     pa.className = "result-para"
 })
+
 
 
