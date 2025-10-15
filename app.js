@@ -217,9 +217,10 @@ let result = 0;
     console.log(result);
     let pa = document.getElementById("result");
     pa.textContent= `${result} correct out of 5`
-    form.appendChild(pa)
+    
     pa.className = "result-para"
 })
+
 
 
 
