@@ -23,7 +23,7 @@ padding: 2rem;
 }
 
 .container > form{
-    width: 400px;
+    width: 330px;
     padding: 2rem;
     background-color: seagreen;
     border-radius: 10px;
@@ -76,4 +76,5 @@ padding: 2rem;
     color: red;
     padding-bottom: 5px;
 }
+
 
