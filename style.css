@@ -68,7 +68,7 @@ padding: 2rem 0 0 0;
     text-align: center;
     padding-top: 10px;
     font-size: 18px;
-    color: white;
+    color: black;
 }
 #refresh{
     text-align: center;
@@ -76,6 +76,7 @@ padding: 2rem 0 0 0;
     color: red;
     padding-bottom: 5px;
 }
+
 
 
 
